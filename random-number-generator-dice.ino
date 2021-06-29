@@ -31,7 +31,7 @@
 * This program will run on arduino nano and will detect a bump from a sound sensor which will trigger a random
 * rumber event and display a number by turning digital inputs on and powering LED in an array to represent a dice.
  */
-//setup constants
+//setup constants here:
 int pinLeds1 = 8;
 int pinLeds2 = 9;
 int pinLeds3 = 7;

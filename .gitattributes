@@ -3,6 +3,12 @@
 ###############################################################################
 * text=auto
 
+### Visual Micro crap:
+__vm/
+random-number-generator-dice.sln
+random-number-generator-dice.vcxproj
+random-number-generator-dice.vcxproj.filters
+
 ###############################################################################
 # Set default behavior for command prompt diff.
 #
